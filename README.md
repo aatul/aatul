@@ -4,7 +4,7 @@
 - 💞️ I’m looking to develop scalable enterprise applications
 - 🧑‍🤝‍🧑 Member of NetBeans Dream Team
 - 📘 Author of Instant NetBeans IDE How-to - Book on Java
-- 🤝 Open for collaboration
+- 🤝 Open for collaboration: Projects, Training, Workshop, Hackathon, Seminar, Webinar, and Guest Lecture
 - 📫 You can reach me on atul.palandurkar@gmail.com
 - 🌐 Let's connect on LinkedIn : https://in.linkedin.com/in/atulpalandurkar
 
