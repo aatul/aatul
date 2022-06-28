@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aatul Palandurkar
-- 👀 I’m interested in Java, Android, Kotlin, Python, React, Node and all related technologies
-- 🌱 I’m currently learning a new technology
-- 💞️ I’m looking to develop scalable enterprise applications
+- 👀 I’m mostly work in Java, Android, Kotlin, Python, React, Node and all related technologies
+- 🌱 I’m currently learning a new technology : student for life 
+- 💞️ I’m love to develop scalable enterprise applications, train people on new technologies
 - 🧑‍🤝‍🧑 Member of NetBeans Dream Team
 - 📘 Author of Instant NetBeans IDE How-to - Book on Java
 - 🤝 Open for collaboration: Projects, Training, Workshop, Hackathon, Seminar, Webinar, and Guest Lecture
