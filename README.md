@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aatul Palandurkar
+- 👋 Hi, I’m @aatul Palandurkar, Developer, Author, Trainer, Blogger 
 - 👀 I work in Java, Android, Kotlin, Python, React, Node and all related technologies
 - 🌱 I’m currently learning a new technology : student for life 
 - 💞️ I’m love to develop scalable enterprise applications, train people on new technologies
