@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @aatul Palandurkar, Developer, Author, Trainer, Blogger 
-- 👀 I work in Java, Android, Kotlin, Python, React, Node and all related technologies
+- 👋 Hi, I’m @aatul Palandurkar : Developer, Author, Trainer, Blogger, YouTuber
+- 👀 I work in Java, Android, Kotlin, Python, React, Node, Scrum, Agile and all related technologies
 - 🌱 I’m currently learning a new technology : student for life 
 - 💞️ I’m love to develop scalable enterprise applications, train people on new technologies
 - 🧑‍🤝‍🧑 Member of NetBeans Dream Team
-- 📘 Author of Instant NetBeans IDE How-to - Book on Java
+- 📘 Author of Instant NetBeans IDE How-to - Book on Java (https://amzn.to/3Guc34m)
+- 📘 Certifications : OCJP, OCWCD
 - 🤝 Open for collaboration: Projects, Training, Workshop, Hackathon, Seminar, Webinar, and Guest Lecture
+- ✨ Courses : UDEMY: https://www.udemy.com/user/atulpalandurkar/
 - 📧 You can reach me on atul.palandurkar@gmail.com
 - 🌐 Let's connect on LinkedIn : https://in.linkedin.com/in/atulpalandurkar
 
