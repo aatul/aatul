@@ -4,7 +4,7 @@
 - 💞️ I’m love to develop scalable enterprise applications, train people on new technologies
 - 🧑‍🤝‍🧑 Member of NetBeans Dream Team
 - 📘 Author of Instant NetBeans IDE How-to - Book on Java (https://amzn.to/3Guc34m)
-- 📘 Certifications : OCJP, OCWCD
+- 📘 Certifications : Professional Scrum Master 1, OCJP, OCWCD
 - 🤝 Open for collaboration: Projects, Training, Workshop, Hackathon, Seminar, Webinar, and Guest Lecture
 - ✨ Courses : UDEMY: https://www.udemy.com/user/atulpalandurkar/
 - 📧 You can reach me on atul.palandurkar@gmail.com
